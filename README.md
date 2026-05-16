@@ -1,5 +1,5 @@
 # Utils
 
-Personal collection of useful scripts, tools, and automation helpers.
+Collection of personal tools, automation scripts, AI helpers, and utilities used in daily projects.
 
-Maintained since 2018.
+Built and maintained by Pritam Sonone since 2018.

@@ -1,3 +1,6 @@
 #!/usr/bin/env python3
-"""Personal AI helper utilities"""
-print("AI Helper initialized")
+"""
+Personal AI Helper
+Author: Pritam Sonone
+"""
+print("AI Helper loaded - Ready for tasks")
